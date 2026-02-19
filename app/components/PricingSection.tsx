@@ -55,7 +55,7 @@ export function PricingSection() {
               <p className="mt-1 text-lg font-semibold">LKR 6,000 / month</p>
               <ul className="mt-3 space-y-2 text-sm text-zinc-700 dark:text-zinc-300">
                 <li>• Hosting and security management</li>
-                <li>• Update tour packages (up to 5 per month)</li>
+                <li>• Update tour packages whenever needed</li>
                 <li>• Content changes when needed</li>
                 <li>• Monthly backups</li>
               </ul>
@@ -120,7 +120,7 @@ export function PricingSection() {
               </p>
               <ul className="mt-3 space-y-2 text-sm text-zinc-700 dark:text-zinc-200">
                 <li>• Hosting and security</li>
-                <li>• SEO blog management (2–4 blog posts per month)</li>
+                <li>• SEO blog management (15+ blogs posts per month)</li>
                 <li>• Ongoing Google ranking improvement</li>
                 <li>• Tour package updates</li>
                 <li>• Monthly performance report</li>
